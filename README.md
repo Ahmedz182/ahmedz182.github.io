@@ -1,9 +1,9 @@
 ## Bookmark this page for more amazing projects.
 
-[![N|Github](https://www.pngmart.com/files/22/GitHub-PNG-Picture.png)
+![Github](https://www.pngmart.com/files/22/GitHub-PNG-Picture.png)
 </br>
-<a href="https://github.com/Ahmedz182/">GitHub profile</a>
-<a href="https://www.linkedin.com/in/ahmedz182/">Linkedin profile</a>
+<a href="https://github.com/Ahmedz182/">GitHub profile</a> |
+<a href="https://www.linkedin.com/in/ahmedz182/">Linkedin profile</a> |
 <a href="https://facebook.com/ahmedx182">Facebook profile</a>
 
 
