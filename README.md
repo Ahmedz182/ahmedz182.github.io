@@ -17,11 +17,22 @@ Learn Hub studio is Remote company which enebles you learn about IT & software D
 - Javascripts
 - Wordpress
 - ✨CSS
+
+
 ## Features
 
 - Create Responsive and attractive Web sites 
 - Native Development
 - Building confidence
 - Work with more developers
+
+## Projects
+
+### Password Manager Web app  <a href="https://ahmedz182.github.io/Password_manager_web_app/">Live Demo</a>
+![213379594-3394bae2-62f6-4b09-9d62-86603963d3e1](https://user-images.githubusercontent.com/35397403/213846550-fe653865-8509-478d-ab63-e960ec41f3c5.jpg)
+
+
+### WordCounter Web App  <a href="https://ahmedz182.github.io/WordCounterApp/">Live Demo</a>
+![213380125-4e383181-564b-4a2b-8877-ce8708b8fffd](https://user-images.githubusercontent.com/35397403/213846564-637c36a7-f870-46ad-805e-957d4233e4b8.jpg)
 
 
