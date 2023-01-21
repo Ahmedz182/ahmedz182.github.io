@@ -1,3 +1,5 @@
-theme: jekyll-theme-Minima
+# theme: jekyll-theme-Midnight
+remote_theme: pages-themes/architect@v0.2.0
+
 title: LHS homepage
 description: Bookmark this to keep an eye on my project updates!
