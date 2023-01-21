@@ -10,15 +10,6 @@
 
 Learn Hub studio is Remote company which enebles you learn about IT & software Development. 
 
-## Learnings 
-- HTML5
-- Bootstrap
-- React Js
-- Javascripts
-- Wordpress
-- ✨CSS
-
-
 ## Features
 
 - Create Responsive and attractive Web sites 
@@ -52,3 +43,19 @@ Learn Hub studio is Remote company which enebles you learn about IT & software D
 <hr>
 ![213861650-cb8dc6d7-5daf-433a-9ca2-45804a66c8ac](https://user-images.githubusercontent.com/35397403/213861830-b8374168-c488-4945-8cb8-9005f53af16f.jpg)
 
+
+</br>
+</br>
+
+### Objective
+<hr>
+Highly motivated and proactive, Willing to learn and develop amazing things.
+Now looking for a new and challenging managerial or consultancy position, one which will make best use of my existing skills and experience.
+
+## Skill Highlights
+ - HTML5
+ - Bootstrap
+ - React Js
+ - Javascripts
+- Wordpress
+- ✨CSS
