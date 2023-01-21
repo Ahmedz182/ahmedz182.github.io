@@ -10,7 +10,7 @@
 
 Learn Hub studio is Remote company which enebles you learn about IT & software Development. 
 
--Learnings 
+## Learnings 
 - HTML5
 - Bootstrap
 - React Js
