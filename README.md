@@ -19,6 +19,11 @@ Learn Hub studio is Remote company which enebles you learn about IT & software D
 
 ## Projects
 
+### Resume Portfolio Template in HTML CSS <a href="https://ahmedz182.github.io/Resume-portfolio-template-in-html-css/">Live Demo</a>
+<hr>
+![238668367-ba6d5a5e-0855-4ea2-9949-aff67202e706](https://github.com/Ahmedz182/ahmedz182.github.io/assets/35397403/db825a37-ce75-4c9e-87ab-b139e3e2138a)
+
+
 ### Snakes And Ladder Game in C++ <a href="https://ahmedz182.github.io/Snakes-And-Ladders-in-C/">Live Demo</a>
 <hr>
 ![236670982-6a72b604-89f8-4261-89ae-1ad5eb286717](https://user-images.githubusercontent.com/35397403/236671228-f366152f-a319-428a-83d8-d8ff311011be.jpg)
