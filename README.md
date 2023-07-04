@@ -18,6 +18,9 @@ Learn Hub studio is Remote company which enebles you learn about IT & software D
 - Work with more developers
 
 ## Projects
+### Todolist app in pure Js & CSS only <a href="https://ahmedz182.github.io/Todo-list-in-Js-and-Css/">Live Demo</a>
+<hr>
+![SS0](https://github.com/Ahmedz182/ahmedz182.github.io/assets/35397403/b12a740f-1e09-49fd-8468-a8fcfe45fa92)
 
 ### Todo app in react js <a href="https://ahmedz182.github.io/Todo-app-in-react-js/">Live Demo</a>
 <hr>
