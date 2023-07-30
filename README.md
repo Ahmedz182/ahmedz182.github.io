@@ -18,6 +18,10 @@ Learn Hub studio is Remote company which enebles you learn about IT & software D
 - Work with more developers
 
 ## Projects
+### A Counter App Built in React Js. <a href="https://ahmedz182.github.io/Counter-App-in-ReactJs/">Live Demo</a>
+<hr>
+![image](https://github.com/Ahmedz182/ahmedz182.github.io/assets/35397403/85afe642-5a60-4190-b400-c358170010a7)
+
 ### Todolist app in pure Js & CSS only <a href="https://ahmedz182.github.io/Todo-list-in-Js-and-Css/">Live Demo</a>
 <hr>
 ![SS0](https://github.com/Ahmedz182/ahmedz182.github.io/assets/35397403/b12a740f-1e09-49fd-8468-a8fcfe45fa92)
